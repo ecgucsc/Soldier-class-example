@@ -1,7 +1,5 @@
 README for Assignment10.1.py
 
-methods within, and describes the demo program and how to use it.
-
 Class:
 My class, Soldier, represents a soldier. The soldier is equipped with a basic sword. The soldier has a private damage and a private health variable.
 It allows for an attack against a target dummy, to set 
